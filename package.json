@@ -1,7 +1,7 @@
 {
-  "name": "rutracker-mcp",
+  "name": "media-mcp",
   "version": "0.0.1",
-  "description": "",
+  "description": "MCP server exposing media utilities (Plex, TMDB) for AI clients.",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
@@ -32,10 +32,8 @@
     "@rekog/mcp-nest": "^1.8.1",
     "@types/node-fetch": "^2.6.12",
     "axios": "^1.8.4",
-    "iconv-lite": "^0.6.3",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
-    "turndown": "^7.2.0",
     "zod": "^3.24.3"
   },
   "devDependencies": {

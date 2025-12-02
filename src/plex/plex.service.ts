@@ -109,7 +109,7 @@ export class PlexService {
           {},
           {
             headers: {
-              'X-Plex-Client-Identifier': 'rutracker-mcp-server',
+              'X-Plex-Client-Identifier': 'media-mcp-server',
               'X-Plex-Product': 'Plex MCP Tool',
               'X-Plex-Version': '1.0.0',
               'Content-Type': 'application/x-www-form-urlencoded',
